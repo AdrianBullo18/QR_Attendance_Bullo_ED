@@ -10,7 +10,7 @@ export default function Index() {
     <SafeAreaView style={styles.container}>
       <View style={styles.headerContainer}>
         <Header title="QR Attendance" />
-        <Text>by:Adrian Clint B. Bullo</Text>
+        <Text>by:Carlice John B. Mangyao</Text>
       </View>
 
       <View style={styles.bodyContainer}>
